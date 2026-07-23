@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtuset.github.io/notes-c48gvt/sitemap.xml
